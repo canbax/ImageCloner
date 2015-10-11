@@ -141,6 +141,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(864, 20);
             this.textBox2.TabIndex = 0;
+            this.textBox2.Text = "name_without_space";
             // 
             // textBox3
             // 
@@ -148,6 +149,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(864, 20);
             this.textBox3.TabIndex = 1;
+            this.textBox3.Text = "300x300 400x400 500x500 600x600";
             // 
             // add_button
             // 
